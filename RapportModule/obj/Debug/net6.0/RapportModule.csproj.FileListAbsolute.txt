@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\bin\Debug\net6.0\RapportModule.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\bin\Debug\net6.0\RapportModule.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\bin\Debug\net6.0\RapportModule.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\bin\Debug\net6.0\RapportModule.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\bin\Debug\net6.0\RapportModule.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\refint\RapportModule.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\RapportModule.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\RapportModule\obj\Debug\net6.0\ref\RapportModule.dll
