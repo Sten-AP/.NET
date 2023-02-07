@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\bin\Debug\net6.0\Studentklasse.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\bin\Debug\net6.0\Studentklasse.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\bin\Debug\net6.0\Studentklasse.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\bin\Debug\net6.0\Studentklasse.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\bin\Debug\net6.0\Studentklasse.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\refint\Studentklasse.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\Studentklasse.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Studentklasse\obj\Debug\net6.0\ref\Studentklasse.dll

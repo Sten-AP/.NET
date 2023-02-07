@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\bin\Debug\net6.0\Nummers.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\bin\Debug\net6.0\Nummers.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\bin\Debug\net6.0\Nummers.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\bin\Debug\net6.0\Nummers.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\bin\Debug\net6.0\Nummers.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\refint\Nummers.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\Nummers.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Nummers\obj\Debug\net6.0\ref\Nummers.dll

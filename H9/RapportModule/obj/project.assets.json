@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\RapportModule\\RapportModule.csproj",
+      "projectUniqueName": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\RapportModule\\RapportModule.csproj",
       "projectName": "RapportModule",
-      "projectPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\RapportModule\\RapportModule.csproj",
+      "projectPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\RapportModule\\RapportModule.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\RapportModule\\obj\\",
+      "outputPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\RapportModule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,36 @@
+﻿Nummers paar1 = new Nummers();
+paar1.Getal1 = 12;
+paar1.Getal2 = 34;
+Console.WriteLine($"Paar: {paar1.Getal1}, {paar1.Getal2}");
+
+int berekendeSom = paar1.Som();
+Console.WriteLine($"Som =  {berekendeSom}");
+
+Console.WriteLine($"Verschil = {paar1.Verschil()}");
+Console.WriteLine($"Product = {paar1.Product()}");
+Console.WriteLine($"Quotient = {paar1.Quotient()}");
+
+class Nummers {
+	public int Getal1;
+	public int Getal2;
+
+	public int Som() {
+		return Getal1 + Getal2;
+	}
+
+	public int Verschil() {
+		return Getal1 - Getal2;
+	}
+
+	public int Product() {
+		return Getal1 * Getal2;
+	}
+
+	public double Quotient() {
+		if (Getal2 == 0) {
+			Console.WriteLine("Kan niet delen door 0.");
+			return 0.0;
+		}
+		return (double)Getal1 / (double)Getal2;
+	}
+}

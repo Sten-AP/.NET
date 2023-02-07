@@ -1,15 +1,15 @@
 ﻿Rapport mijnpunten = new Rapport();
-mijnpunten.Percentage = 85;
-mijnpunten.PrintGraad();
+mijnpunten.percentage = 85;
+mijnpunten.printGraad();
 
 class Rapport {
-	public int Percentage;
+	public int percentage;
 
-	public void PrintGraad() {
-		if (Percentage < 50) Console.WriteLine("Niet geslaagd");
-		if (Percentage > 50 && Percentage <= 68) Console.WriteLine("Voldoende");
-		if (Percentage > 68 && Percentage <= 75) Console.WriteLine("Onderscheiding");
-		if (Percentage > 75 && Percentage <= 85) Console.WriteLine("Grote onderscheiding");
-		if (Percentage > 85) Console.WriteLine("Grootste onderscheiding");
+	public void printGraad() {
+		if (percentage < 50) Console.WriteLine("Niet geslaagd");
+		if (percentage > 50 && percentage <= 68) Console.WriteLine("Voldoende");
+		if (percentage > 68 && percentage <= 75) Console.WriteLine("Onderscheiding");
+		if (percentage > 75 && percentage <= 85) Console.WriteLine("Grote onderscheiding");
+		if (percentage > 85) Console.WriteLine("Grootste onderscheiding");
 	}
 }
