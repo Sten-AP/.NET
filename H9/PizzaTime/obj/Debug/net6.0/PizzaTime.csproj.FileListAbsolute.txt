@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\bin\Debug\net6.0\PizzaTime.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\bin\Debug\net6.0\PizzaTime.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\bin\Debug\net6.0\PizzaTime.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\bin\Debug\net6.0\PizzaTime.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\bin\Debug\net6.0\PizzaTime.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\refint\PizzaTime.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\PizzaTime.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\PizzaTime\obj\Debug\net6.0\ref\PizzaTime.dll

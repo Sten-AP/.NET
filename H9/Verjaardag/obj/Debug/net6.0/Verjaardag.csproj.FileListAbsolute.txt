@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\bin\Debug\net6.0\Verjaardag.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\bin\Debug\net6.0\Verjaardag.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\bin\Debug\net6.0\Verjaardag.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\bin\Debug\net6.0\Verjaardag.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\bin\Debug\net6.0\Verjaardag.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\refint\Verjaardag.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\Verjaardag.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Verjaardag\obj\Debug\net6.0\ref\Verjaardag.dll

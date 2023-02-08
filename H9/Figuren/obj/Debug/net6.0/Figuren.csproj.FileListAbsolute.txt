@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\bin\Debug\net6.0\Figuren.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\bin\Debug\net6.0\Figuren.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\bin\Debug\net6.0\Figuren.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\bin\Debug\net6.0\Figuren.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\bin\Debug\net6.0\Figuren.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\refint\Figuren.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\Figuren.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Figuren\obj\Debug\net6.0\ref\Figuren.dll
