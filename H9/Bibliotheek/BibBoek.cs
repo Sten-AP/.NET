@@ -1,20 +1,22 @@
 ﻿public class BibBoek {
 	public string ontlener = "onbekend";
+
+	private DateTime Uitgeleend = DateTime.Now;
 	public DateTime uitgeleend {
-		private get { return uitgeleend; }
-		set { uitgeleend = DateTime.Now; }
+		private get { return Uitgeleend; }
+		set { Uitgeleend = value; }
 	}
 
-	public DateTime inLeverDatum { 
-		set { inLeverDatum =  } 
+	private int aantalDagen = 14;
+	public DateTime inLeverDatum {
+		get { return Uitgeleend.AddDays(aantalDagen); }
 	}
 
-	public void VerlengTermijn(int termijn) {
-
-		gegevens();
+	public void verlengTermijn(int aantal) {
+		aantalDagen += aantal;
 	}
 
-	private void gegevens() {
-		Console.WriteLine($"Ontlener:\t{ontlener}\nUitgeleend:\t{uitgeleend}\nInleverdatum:\t{inLeverDatum}");
+	public void gegevens() {
+		Console.WriteLine($"Ontlener:\t{ontlener}\nUitgeleend:\t{uitgeleend.ToShortDateString()}\nInleverdatum:\t{inLeverDatum.ToShortDateString()}");
 	}
 }

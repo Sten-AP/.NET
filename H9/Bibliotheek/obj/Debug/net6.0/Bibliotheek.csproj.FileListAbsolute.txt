@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\bin\Debug\net6.0\Bibliotheek.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\bin\Debug\net6.0\Bibliotheek.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\bin\Debug\net6.0\Bibliotheek.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\bin\Debug\net6.0\Bibliotheek.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\bin\Debug\net6.0\Bibliotheek.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\refint\Bibliotheek.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\Bibliotheek.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Bibliotheek\obj\Debug\net6.0\ref\Bibliotheek.dll

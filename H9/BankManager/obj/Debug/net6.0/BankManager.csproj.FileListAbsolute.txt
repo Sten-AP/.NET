@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\bin\Debug\net6.0\BankManager.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\bin\Debug\net6.0\BankManager.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\bin\Debug\net6.0\BankManager.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\bin\Debug\net6.0\BankManager.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\bin\Debug\net6.0\BankManager.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\refint\BankManager.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\BankManager.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\BankManager\obj\Debug\net6.0\ref\BankManager.dll
