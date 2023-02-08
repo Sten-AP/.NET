@@ -7,7 +7,23 @@ rekening2.NaamKlant = "Kyan";
 rekening2.RekeningNummer = "0987654321";
 
 //rekening 2 geeft 300 euro aan rekening 1
-rekening1.StortGeld(rekening2.HaalGeldAf(1000));
+Console.WriteLine("-------------------------");
+rekening1.StortGeld(rekening2.HaalGeldAf(500));
+rekening2.ToonInfo();
+rekening1.ToonInfo();
+Console.WriteLine("-------------------------");
 
+rekening1.StortGeld(rekening2.HaalGeldAf(400));
+rekening2.ToonInfo();
+rekening1.ToonInfo();
+Console.WriteLine("-------------------------");
+
+rekening1.StortGeld(rekening2.HaalGeldAf(200));
+rekening2.ToonInfo();
+rekening1.ToonInfo();
+Console.WriteLine("-------------------------");
+
+rekening2.StortGeld(rekening1.HaalGeldAf(200));
 rekening1.ToonInfo();
 rekening2.ToonInfo();
+Console.WriteLine("-------------------------");
