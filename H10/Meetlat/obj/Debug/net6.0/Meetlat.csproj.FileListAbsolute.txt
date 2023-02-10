@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\bin\Debug\net6.0\Meetlat.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\bin\Debug\net6.0\Meetlat.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\bin\Debug\net6.0\Meetlat.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\bin\Debug\net6.0\Meetlat.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\bin\Debug\net6.0\Meetlat.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\refint\Meetlat.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\Meetlat.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H10\Meetlat\obj\Debug\net6.0\ref\Meetlat.dll
