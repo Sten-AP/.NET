@@ -1,0 +1,15 @@
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.csproj.AssemblyReference.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.AssemblyInfoInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.AssemblyInfo.cs
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.csproj.CoreCompileInputs.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\bin\Debug\net6.0\Sports.exe
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\bin\Debug\net6.0\Sports.deps.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\bin\Debug\net6.0\Sports.runtimeconfig.json
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\bin\Debug\net6.0\Sports.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\bin\Debug\net6.0\Sports.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\refint\Sports.dll
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.pdb
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\Sports.genruntimeconfig.cache
+E:\_School\AP\2022-2023\_Semester 2\.NET\H9\Sports\obj\Debug\net6.0\ref\Sports.dll
