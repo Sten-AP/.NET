@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
+      "projectUniqueName": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
       "projectName": "Pokémon",
-      "projectPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
+      "projectPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\obj\\",
+      "outputPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",

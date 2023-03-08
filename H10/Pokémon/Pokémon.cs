@@ -32,7 +32,7 @@
 		public Types Type { get; set; }
 		public int Nummer { get; set; }
 
-		public int Level { get; private set; }
+		public int Level { get; private set; } = 1;
 
 		public double Average { 
 			get { return (HP_Base + Attack_Base + Defense_Base + SpAttack_Base + SpDefense_Base + Speed_Base) / 6.0; } 
@@ -41,25 +41,44 @@
 			get { return HP_Base + Attack_Base + Defense_Base + SpAttack_Base + SpDefense_Base + Speed_Base; }
 		}
 		public int HP_Full {
-			get { return (((HP_Base + 50) * Level) / 50) + 10; }
+			get { return ((HP_Base + 50) * Level/ 50) + 10; }
 		}
 		public int Attack_Full {
-			get { return ((Attack_Base * Level) / 50) + 5; }
+			get { return (Attack_Base * Level / 50) + 5; }
 		}
 		public int Defense_Full {
-			get { return ((Defense_Base * Level) / 50) + 5; }
+			get { return (Defense_Base * Level / 50) + 5; }
 		}
 		public int SpAttack_Full {
-			get { return ((SpAttack_Base * Level) / 50) + 5; }
+			get { return (SpAttack_Base * Level / 50) + 5; }
 		}
 		public int SpDefense_Full {
-			get { return ((SpDefense_Base * Level) / 50) + 5; }
+			get { return (SpDefense_Base * Level / 50) + 5; }
 		}
 		public int Speed_Full {
-			get { return ((Speed_Base * Level) / 50) + 5; }
+			get { return (Speed_Base * Level / 50) + 5; }
 		}
-		public void VerhoogLevel() {
-			Level++;
+
+		public void VerhoogLevel(int aantal) {
+			Level += aantal;
+		}
+
+		public void ShowStats() {
+			Console.WriteLine($"{Naam} (level {Level})");
+			Console.WriteLine("Base stats:");
+			Console.WriteLine($"\t* Health = {HP_Base}");
+			Console.WriteLine($"\t* Attack = {Attack_Base}");
+			Console.WriteLine($"\t* Defense = {Defense_Base}");
+			Console.WriteLine($"\t* SpAttack = {SpAttack_Base}");
+			Console.WriteLine($"\t* SpDefense = {SpDefense_Base}");
+			Console.WriteLine($"\t* Speed = {Speed_Base}");
+			Console.WriteLine("Full stats:");
+			Console.WriteLine($"\t* Health = {HP_Full}");
+			Console.WriteLine($"\t* Attack = {Attack_Full}");
+			Console.WriteLine($"\t* Defense = {Defense_Full}");
+			Console.WriteLine($"\t* SpAttack = {SpAttack_Full}");
+			Console.WriteLine($"\t* SpDefense = {SpDefense_Full}");
+			Console.WriteLine($"\t* Speed = {Speed_Full}\n");
 		}
 	}
 }
