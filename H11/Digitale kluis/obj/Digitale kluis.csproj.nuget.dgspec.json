@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj": {}
+    "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj": {}
   },
   "projects": {
-    "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj": {
+    "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj",
+        "projectUniqueName": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj",
         "projectName": "Digitale kluis",
-        "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj",
+        "projectPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\Digitale kluis.csproj",
         "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-        "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\obj\\",
+        "outputPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Digitale kluis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
