@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj": {}
+    "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj": {}
   },
   "projects": {
-    "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj": {
+    "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
+        "projectUniqueName": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
         "projectName": "Pokémon",
-        "projectPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
+        "projectPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\Pokémon.csproj",
         "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-        "outputPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\obj\\",
+        "outputPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Pokémon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

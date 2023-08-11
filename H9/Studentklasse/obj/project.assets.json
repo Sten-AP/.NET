@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\Studentklasse\\Studentklasse.csproj",
+      "projectUniqueName": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\Studentklasse\\Studentklasse.csproj",
       "projectName": "Studentklasse",
-      "projectPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\Studentklasse\\Studentklasse.csproj",
+      "projectPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\Studentklasse\\Studentklasse.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\Studentklasse\\obj\\",
+      "outputPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\Studentklasse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

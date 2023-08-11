@@ -1,0 +1,15 @@
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.csproj.AssemblyReference.cache
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.GeneratedMSBuildEditorConfig.editorconfig
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.AssemblyInfoInputs.cache
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.AssemblyInfo.cs
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.csproj.CoreCompileInputs.cache
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\bin\Debug\net6.0\Computer-winkel.exe
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\bin\Debug\net6.0\Computer-winkel.deps.json
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\bin\Debug\net6.0\Computer-winkel.runtimeconfig.json
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\bin\Debug\net6.0\Computer-winkel.dll
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\bin\Debug\net6.0\Computer-winkel.pdb
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.dll
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\refint\Computer-winkel.dll
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.pdb
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\Computer-winkel.genruntimeconfig.cache
+D:\____School\AP\2022-2023\_Semester 2\.NET\H12\Computer-winkel\obj\Debug\net6.0\ref\Computer-winkel.dll

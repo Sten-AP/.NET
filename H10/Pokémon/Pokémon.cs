@@ -20,7 +20,7 @@
 		fairy
 	}
 
-	internal class Pokémon {
+	public class Pokémon {
 		public int HP_Base;
 		public int Attack_Base;
 		public int Defense_Base;

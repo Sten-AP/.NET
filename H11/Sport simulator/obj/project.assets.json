@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Sport simulator\\Sport simulator.csproj",
+      "projectUniqueName": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Sport simulator\\Sport simulator.csproj",
       "projectName": "Sport simulator",
-      "projectPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Sport simulator\\Sport simulator.csproj",
+      "projectPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Sport simulator\\Sport simulator.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Sport simulator\\obj\\",
+      "outputPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Sport simulator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
