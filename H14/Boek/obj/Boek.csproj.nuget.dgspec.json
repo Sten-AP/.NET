@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H14\\Boek\\Boek.csproj": {}
+    "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H14\\Boek\\Boek.csproj": {}
   },
   "projects": {
-    "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H14\\Boek\\Boek.csproj": {
+    "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H14\\Boek\\Boek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H14\\Boek\\Boek.csproj",
+        "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H14\\Boek\\Boek.csproj",
         "projectName": "Boek",
-        "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H14\\Boek\\Boek.csproj",
+        "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H14\\Boek\\Boek.csproj",
         "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-        "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H14\\Boek\\obj\\",
+        "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H14\\Boek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",

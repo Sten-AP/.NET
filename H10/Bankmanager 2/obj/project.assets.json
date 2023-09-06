@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Bankmanager 2\\Bankmanager 2.csproj",
+      "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H10\\Bankmanager 2\\Bankmanager 2.csproj",
       "projectName": "Bankmanager 2",
-      "projectPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Bankmanager 2\\Bankmanager 2.csproj",
+      "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H10\\Bankmanager 2\\Bankmanager 2.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "E:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H10\\Bankmanager 2\\obj\\",
+      "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H10\\Bankmanager 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",

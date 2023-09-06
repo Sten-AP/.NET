@@ -5,25 +5,30 @@
 		public string Auteur { get; set; }
 
 		private double prijs;
-		public virtual double Prijs { get { return prijs; } set { prijs = value; } }
+		public virtual double Prijs {
+			get { return prijs; }
+			set { prijs = value; }
+		}
 
 		public Boek() { }
 
-		public Boek(long a, string b, string c, double d) {
-			ISBN = a;
-			Titel = b;
-			Auteur = c;
-			Prijs = d;
+		public Boek(long isbn, string titel, string auteur, double prijs) {
+			ISBN = isbn;
+			Titel = titel;
+			Auteur = auteur;
+			Prijs = prijs;
 		}
 
-		static Boek TelOp(Boek boek1, Boek boek2) {
+		public static Boek TelOp(Boek boek1, Boek boek2) {
 			Boek result = new Boek();
 
-			result.Titel = $"Omnibus van {boek1.Auteur},{boek2.Auteur}";
+			result.Titel = $"Omnibus van {boek1.Auteur}, {boek2.Auteur}";
 			result.Prijs = (boek1.Prijs + boek2.Prijs) / 2;
 
 			return result;
 		}
-
+		public override string ToString() {
+			return $"{Titel} - {Auteur} ({ISBN}) - {Prijs}";
+		}
 	}
 }

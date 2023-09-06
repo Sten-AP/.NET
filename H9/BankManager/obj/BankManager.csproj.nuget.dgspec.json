@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\BankManager\\BankManager.csproj": {}
+    "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H9\\BankManager\\BankManager.csproj": {}
   },
   "projects": {
-    "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\BankManager\\BankManager.csproj": {
+    "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H9\\BankManager\\BankManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\BankManager\\BankManager.csproj",
+        "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H9\\BankManager\\BankManager.csproj",
         "projectName": "BankManager",
-        "projectPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\BankManager\\BankManager.csproj",
+        "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H9\\BankManager\\BankManager.csproj",
         "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-        "outputPath": "E:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H9\\BankManager\\obj\\",
+        "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H9\\BankManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
