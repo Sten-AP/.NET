@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H12\\Bookmark Manager\\Bookmark Manager.csproj",
+      "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H12\\Bookmark Manager\\Bookmark Manager.csproj",
       "projectName": "Bookmark Manager",
-      "projectPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H12\\Bookmark Manager\\Bookmark Manager.csproj",
+      "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H12\\Bookmark Manager\\Bookmark Manager.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "D:\\____School\\AP\\2022-2023\\_Semester 2\\.NET\\H12\\Bookmark Manager\\obj\\",
+      "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H12\\Bookmark Manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

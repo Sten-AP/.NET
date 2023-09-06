@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\bin\Debug\net6.0\Ballspel met overerving.exe
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\bin\Debug\net6.0\Ballspel met overerving.deps.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\bin\Debug\net6.0\Ballspel met overerving.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\bin\Debug\net6.0\Ballspel met overerving.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\bin\Debug\net6.0\Ballspel met overerving.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\refint\Ballspel met overerving.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\Ballspel met overerving.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ballspel met overerving\obj\Debug\net6.0\ref\Ballspel met overerving.dll

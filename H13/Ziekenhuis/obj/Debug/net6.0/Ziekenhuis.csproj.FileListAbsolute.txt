@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\bin\Debug\net6.0\Ziekenhuis.exe
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\bin\Debug\net6.0\Ziekenhuis.deps.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\bin\Debug\net6.0\Ziekenhuis.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\bin\Debug\net6.0\Ziekenhuis.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\bin\Debug\net6.0\Ziekenhuis.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\refint\Ziekenhuis.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\Ziekenhuis.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\Ziekenhuis\obj\Debug\net6.0\ref\Ziekenhuis.dll

@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\bin\Debug\net6.0\HiddenBookmark.exe
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\bin\Debug\net6.0\HiddenBookmark.deps.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\bin\Debug\net6.0\HiddenBookmark.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\bin\Debug\net6.0\HiddenBookmark.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\bin\Debug\net6.0\HiddenBookmark.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\refint\HiddenBookmark.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\HiddenBookmark.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H13\HiddenBookmark\obj\Debug\net6.0\ref\HiddenBookmark.dll
