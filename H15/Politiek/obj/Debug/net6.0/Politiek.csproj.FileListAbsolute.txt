@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\bin\Debug\net6.0\Politiek.exe
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\bin\Debug\net6.0\Politiek.deps.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\bin\Debug\net6.0\Politiek.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\bin\Debug\net6.0\Politiek.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\bin\Debug\net6.0\Politiek.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\refint\Politiek.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\Politiek.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H15\Politiek\obj\Debug\net6.0\ref\Politiek.dll

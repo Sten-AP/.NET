@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\bin\Debug\net6.0\Money, money, money.exe
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\bin\Debug\net6.0\Money, money, money.deps.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\bin\Debug\net6.0\Money, money, money.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\bin\Debug\net6.0\Money, money, money.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\bin\Debug\net6.0\Money, money, money.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\refint\Money, money, money.dll
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.pdb
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\Money, money, money.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester 2\.NET\H14\Money, money, money\obj\Debug\net6.0\ref\Money, money, money.dll
