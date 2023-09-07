@@ -1,12 +1,34 @@
 ﻿namespace Politiek {
-	internal class VerkiezingsUitslag {
-		public President VerkozenPresident { get; private set; }
-		public List<Minister> VerkozenMinisters { get; private set; } = new List<Minister>();
+	public class VerkiezingsUitslag {
+		static Random rng = new Random();
 
-		public VerkiezingsUitslag(President president, List<Minister> ministers) {
+		private President verkozenPresident = null;
+		public President VerkozenPresident {
+			get { return verkozenPresident; }
+			set { verkozenPresident = value; }
+		}
 
-			VerkozenPresident = president;
-			VerkozenMinisters = ministers;
+		private List<Minister> verkozenMinisters;
+		public List<Minister> VerkozenMinisters {
+			get { return verkozenMinisters; }
+			set { verkozenMinisters = value; }
+		}
+
+		public VerkiezingsUitslag() {
+			VerkozenPresident = new President() { Naam = NaamGen() };
+			VerkozenMinisters = new List<Minister>();
+
+			for (int i = 0; i < 5; i++) {
+				VerkozenMinisters.Add(new Minister() { Naam = NaamGen() });
+			}
+		}
+
+		private string NaamGen() {
+			string naam = "";
+			for (int i = 0; i < rng.Next(5, 10); i++) {
+				naam += (char)rng.Next('a', 'z');
+			}
+			return naam;
 		}
 	}
 }

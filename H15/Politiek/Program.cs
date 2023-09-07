@@ -16,7 +16,10 @@
 				Console.WriteLine("Weer een jaar verder");
 				mijnLand.JaarVerder();
 			}
+
 			VerkiezingsUitslag uitslag = new VerkiezingsUitslag();
+			mijnLand.MaakRegering(uitslag.VerkozenPresident, uitslag.VerkozenMinisters);
+			Console.WriteLine(uitslag.VerkozenPresident.Naam);
 		}
 	}
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Het dierenrijk\\Het dierenrijk.csproj",
+      "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H13\\Het dierenrijk\\Het dierenrijk.csproj",
       "projectName": "Het dierenrijk",
-      "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Het dierenrijk\\Het dierenrijk.csproj",
+      "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H13\\Het dierenrijk\\Het dierenrijk.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H11\\Het dierenrijk\\obj\\",
+      "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H13\\Het dierenrijk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",

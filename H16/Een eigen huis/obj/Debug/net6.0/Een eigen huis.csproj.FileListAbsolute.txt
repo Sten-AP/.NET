@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\bin\Debug\net6.0\Een eigen huis.exe
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\bin\Debug\net6.0\Een eigen huis.deps.json
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\bin\Debug\net6.0\Een eigen huis.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\bin\Debug\net6.0\Een eigen huis.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\bin\Debug\net6.0\Een eigen huis.pdb
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\refint\Een eigen huis.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.pdb
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\Een eigen huis.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H16\Een eigen huis\obj\Debug\net6.0\ref\Een eigen huis.dll

@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.exe
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.deps.json
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\bin\Debug\net6.0\Carbon Footprint.pdb
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\refint\Carbon Footprint.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.pdb
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\Carbon Footprint.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H17\Carbon Footprint\obj\Debug\net6.0\ref\Carbon Footprint.dll

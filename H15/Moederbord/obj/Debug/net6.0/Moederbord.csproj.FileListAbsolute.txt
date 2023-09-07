@@ -1,0 +1,15 @@
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\bin\Debug\net6.0\Moederbord.exe
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\bin\Debug\net6.0\Moederbord.deps.json
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\bin\Debug\net6.0\Moederbord.runtimeconfig.json
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\bin\Debug\net6.0\Moederbord.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\bin\Debug\net6.0\Moederbord.pdb
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.csproj.AssemblyReference.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.GeneratedMSBuildEditorConfig.editorconfig
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.AssemblyInfoInputs.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.AssemblyInfo.cs
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.csproj.CoreCompileInputs.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\refint\Moederbord.dll
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.pdb
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\Moederbord.genruntimeconfig.cache
+D:\_School\AP\2022-2023\_Semester-2\.NET\H15\Moederbord\obj\Debug\net6.0\ref\Moederbord.dll

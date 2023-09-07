@@ -1,5 +1,5 @@
 ﻿namespace Politiek {
-	internal class Land {
+	public class Land {
 		private President President;
 		private Minister EersteMinister;
 		private List<Minister> Ministers = new List<Minister>(4);

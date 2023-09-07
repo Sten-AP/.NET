@@ -1,5 +1,5 @@
 ﻿namespace Politiek {
-	internal class Minister {
+	public class Minister {
 		public string Naam;
 	}
 }

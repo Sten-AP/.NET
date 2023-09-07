@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H15\\Politiek\\Politiek.csproj",
+      "projectUniqueName": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H15\\Politiek\\Politiek.csproj",
       "projectName": "Politiek",
-      "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H15\\Politiek\\Politiek.csproj",
+      "projectPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H15\\Politiek\\Politiek.csproj",
       "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-      "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester 2\\.NET\\H15\\Politiek\\obj\\",
+      "outputPath": "D:\\_School\\AP\\2022-2023\\_Semester-2\\.NET\\H15\\Politiek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
